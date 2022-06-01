@@ -1,0 +1,11 @@
+C:\Users\Development\OneDrive\Desktop\Rust training\hello\snakegame\target\debug\deps\inflate-72e68017abaa419d.rmeta: C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\lib.rs C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\checksum.rs C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\writer.rs C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\utils.rs C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\reader.rs
+
+C:\Users\Development\OneDrive\Desktop\Rust training\hello\snakegame\target\debug\deps\libinflate-72e68017abaa419d.rlib: C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\lib.rs C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\checksum.rs C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\writer.rs C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\utils.rs C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\reader.rs
+
+C:\Users\Development\OneDrive\Desktop\Rust training\hello\snakegame\target\debug\deps\inflate-72e68017abaa419d.d: C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\lib.rs C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\checksum.rs C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\writer.rs C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\utils.rs C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\reader.rs
+
+C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\lib.rs:
+C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\checksum.rs:
+C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\writer.rs:
+C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\utils.rs:
+C:\Users\Development\.cargo\registry\src\github.com-1ecc6299db9ec823\inflate-0.3.4\src\reader.rs:
